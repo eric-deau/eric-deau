@@ -8,16 +8,23 @@ I love problem solving with teams and improving my skills every day. I also type
   <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br>
-<hr>
 <h2> 🚀 Projects</h2>
 
 🔹 GitGud
 Web game to train aim away from home.
 
-- 🧠 Tech: ReactJS, Python Flask, MySQL, Tailwind CSS
-- ✨ Features: Auth, Dashboard, API
+- 🧠 Tech: ReactJS, Python Flask, MySQL, Tailwind CSS, Canvas
+- ✨ Features: Auth, Leaderboard, Mobile-friendly
 - 🔗 Repo: https://github.com/eric-deau/aim_trainer
 - 🌐 Live Demo: https://gitgud.arekk.org/
+
+🔹 Budget Galaga
+Web game where players shoot asteroids and submit a score to the leaderboard.
+
+- 🧠 Tech: JavaScript, CSS, HTML, MySQL
+- ✨ Features: Auth, Leaderboard
+- 🔗 Repo: https://github.com/eric-deau/aim_trainer
+- 🌐 Live Demo: https://budgetgalaga.netlify.app/
 
 
 <!--
