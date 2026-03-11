@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Eric! 👋</h1>
 
 <h2>About Me</h2>
-Currently enrolled in BCIT's CST program, I love problem solving with teams and improving my skills every day. 
+I love problem solving with teams and improving my skills every day. I also type really really fast. 
 
 <h2>📫 How to reach me:<h2>
 <a href="https://www.linkedin.com/in/eric-deau/" target="_blank">
