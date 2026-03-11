@@ -11,6 +11,7 @@ I love problem solving with teams and improving my skills every day. I also type
 <h2> 🚀 Projects</h2>
 
 🔹 GitGud
+<br>
 Web game to train aim away from home.
 
 - 🧠 Tech: ReactJS, Python Flask, MySQL, Tailwind CSS, Canvas
@@ -19,6 +20,7 @@ Web game to train aim away from home.
 - 🌐 Live Demo: https://gitgud.arekk.org/
 
 🔹 Budget Galaga
+<br>
 Web game where players shoot asteroids and submit a score to the leaderboard.
 
 - 🧠 Tech: JavaScript, CSS, HTML, MySQL
