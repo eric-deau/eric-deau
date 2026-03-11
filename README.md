@@ -9,6 +9,16 @@ I love problem solving with teams and improving my skills every day. I also type
 </a>
 <br>
 <hr>
+## 🚀 Projects
+
+### 🔹 Project Name
+Short one-sentence description of what it does.
+
+- 🧠 Tech: React, Node.js, MongoDB
+- ✨ Features: Auth, Dashboard, API
+- 🔗 Repo: https://github.com/username/project
+- 🌐 Live Demo: https://project-demo.com
+
 
 <!--
 **eric-deau/eric-deau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
