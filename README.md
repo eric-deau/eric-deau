@@ -25,7 +25,7 @@ Web game where players shoot asteroids and submit a score to the leaderboard.
 
 - 🧠 Tech: JavaScript, CSS, HTML, MySQL
 - ✨ Features: Auth, Leaderboard
-- 🔗 Repo: https://github.com/eric-deau/aim_trainer
+- 🔗 Repo: https://github.com/eric-deau/TriangleDestroyingRocks
 - 🌐 Live Demo: https://budgetgalaga.netlify.app/
 
 
