@@ -9,15 +9,15 @@ I love problem solving with teams and improving my skills every day. I also type
 </a>
 <br>
 <hr>
-## 🚀 Projects
+<h2> 🚀 Projects</h2>
 
-### 🔹 Project Name
-Short one-sentence description of what it does.
+🔹 GitGud
+Web game to train aim away from home.
 
-- 🧠 Tech: React, Node.js, MongoDB
+- 🧠 Tech: ReactJS, Python Flask, MySQL, Tailwind CSS
 - ✨ Features: Auth, Dashboard, API
-- 🔗 Repo: https://github.com/username/project
-- 🌐 Live Demo: https://project-demo.com
+- 🔗 Repo: https://github.com/eric-deau/aim_trainer
+- 🌐 Live Demo: https://gitgud.arekk.org/
 
 
 <!--
